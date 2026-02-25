@@ -1,5 +1,10 @@
 three
 th
 hj
+<<<<<<< HEAD
+jk
+ki 
+=======
 jl
 ki ji
+>>>>>>> main
